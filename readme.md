@@ -1,4 +1,3 @@
-```markdown
 # CryptoInsights
 
 CryptoInsights is a Flask-based web application that fetches historical cryptocurrency data, processes it, and sends the data to GPT-3 for investment recommendations. The application is containerized using Docker and includes an Nginx reverse proxy.
@@ -114,6 +113,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Binance API](https://binance-docs.github.io/apidocs/spot/en/)
 - [OpenAI GPT-3](https://beta.openai.com/)
 
-```
 
 This `README.md` file provides an overview of the project, setup instructions, API details, and other relevant information. Make sure to replace placeholders like `https://github.com/AhmedSHelmi/cryptoinsights.git` with actual values if necessary.
