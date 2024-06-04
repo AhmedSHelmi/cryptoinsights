@@ -1,5 +1,7 @@
 # CryptoInsights
 
+![CryptoInsights](/media/logo.webp)
+
 CryptoInsights is a Flask-based web application that fetches historical cryptocurrency data, processes it, and sends the data to GPT-3 for investment recommendations. The application is containerized using Docker and includes an Nginx reverse proxy.
 
 ## Features
